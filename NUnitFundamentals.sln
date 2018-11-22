@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28306.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitFundamentals", "NUnitFundamentals\NUnitFundamentals.csproj", "{E85DD2A8-9C8E-491C-BE9E-EA824AE92F67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{95634A34-81A8-4C92-88EB-9A558883C481}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E85DD2A8-9C8E-491C-BE9E-EA824AE92F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E85DD2A8-9C8E-491C-BE9E-EA824AE92F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E85DD2A8-9C8E-491C-BE9E-EA824AE92F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95634A34-81A8-4C92-88EB-9A558883C481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95634A34-81A8-4C92-88EB-9A558883C481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95634A34-81A8-4C92-88EB-9A558883C481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95634A34-81A8-4C92-88EB-9A558883C481}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

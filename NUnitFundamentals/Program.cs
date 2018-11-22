@@ -10,6 +10,7 @@ namespace NUnitFundamentals
     {
         static void Main(string[] args)
         {
+            // nothing happens here
         }
     }
 }
