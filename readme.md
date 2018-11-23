@@ -34,3 +34,11 @@ Objective: Create a test project with some basic tests and test setup.
 Add some description to this test:  "When the divisor is zero the method should throw ArgumentException with the b argument specified in it."
 10. Make any of the test ignored, with the reason "Suspended until issue #123 resolved."
 	a. how do you ignore the whole test fixture?
+11. Marking the test fail - in one test replace That() with a manual test and marking the test as failed.
+12. Marking the test as inconclusive - make one of the test results inconclusive (with a message, e.g. missing licence)
+13. Issuing warnings from test - in one of the tests issue a warning, e.g. "The calculation time exeeded the configured threshold.". How a warning affects the test result?
+14. ExplicitAttribute
+    a. what does? When the test is run and when not?
+    b. mark any of the test as requiring an explicit run
+    3. mark the whole test fixture, add a message
+ 
